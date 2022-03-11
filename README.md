@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NgangaMichael
-- 👀 I’m interested in web development AI, machine learning, though currently a web developer, am looking forward to learn AI and machine learning.
-- 🌱 I’m currently learning React and Vue then move to typescript and python.
-- 💞️ I’m looking to collaborate on web development projects personal and open sorce.
+- 👀 I’m a web and mobile developer using Flutter, MERN stack and PHP to develop my projects.
+- 🌱 I’m currently learning .NET then move typescript.
+- 💞️ I’m looking to collaborate on web and mobile development projects both personal and open sorce.
 - 📫 How to reach me: ngangamichael83@gmail.com 
 
 <!---
