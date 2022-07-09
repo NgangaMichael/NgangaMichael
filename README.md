@@ -6,7 +6,7 @@
 - 📚 I also like reading books mostly financial and self help books.
 - 📫 Have a question, discussion or just want to say 'hi', you can reach me via: ngangamichael83@gmail.com. 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NgangaMichael&show_icons=true)
 
 <!---
 NgangaMichael/NgangaMichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
