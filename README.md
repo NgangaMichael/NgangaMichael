@@ -7,6 +7,7 @@
 - 📫 Have a question, discussion or just want to say 'hi', you can reach me via: ngangamichael83@gmail.com. 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NgangaMichael&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NgangaMichael&theme=blue-green)
 
 <!---
 NgangaMichael/NgangaMichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
