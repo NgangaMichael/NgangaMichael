@@ -8,7 +8,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NgangaMichael&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NgangaMichael&theme=blue-green)
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/NgangaMichael)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!---
 NgangaMichael/NgangaMichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
