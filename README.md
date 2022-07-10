@@ -10,9 +10,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NgangaMichael&theme=blue-green)
 ## 4. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-## 5. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=NgangaMichael)
-<!---
+
 NgangaMichael/NgangaMichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
