@@ -7,4 +7,4 @@
 - 📫 Have a question, discussion or just want to say 'hi', you can reach me via: ngangamichael83@gmail.com. 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NgangaMichael&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NgangaMichael&theme=vue-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NgangaMichael&theme=vue)](https://git.io/streak-stats)
