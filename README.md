@@ -7,4 +7,3 @@
 - 📫 Have a question, discussion or just want to say 'hi', you can reach me via: ngangamichael83@gmail.com. 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NgangaMichael&theme=dark&hide_border=true&fire=4887DD&sideLabels=4887DD&background=FFFFFF&stroke=4887DD&ring=4887DD&currStreakNum=4887DD&currStreakLabel=4887DD&sideNums=4887DD)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NgangaMichael&theme=vue)](https://git.io/streak-stats)
