@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Michael Nganga Njoroge  
+# 👋 Hi, I'm Michael
 
 🚀 **Full-Stack Developer | AI Enthusiast | Open Source Contributor**  
 💡 Passionate about **building scalable apps & integrating AI for smart insights**  
