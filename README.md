@@ -1,5 +1,3 @@
-![Michael Nganga Njoroge](https://your-banner-image-url.com)
-
 # 👋 Hi, I'm Michael Nganga Njoroge  
 
 🚀 **Full-Stack Developer | AI Enthusiast | Open Source Contributor**  
@@ -43,13 +41,6 @@
 
 ---
 
-## 📌 Open Source Contributions  
-
-💻 **[Project Name]** – Improved API performance for faster data fetching  
-💡 **[Project Name]** – Fixed UI bugs & improved accessibility  
-
----
-
 ## 📈 GitHub Stats & Contributions  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgangaMichael&show_icons=true&theme=dark)  
@@ -60,8 +51,7 @@
 
 ## 🌍 Let's Connect  
 
-💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-📧 [Email](mailto:ngangamichael83@gmail.com)  
-🚀 [Portfolio](https://yourportfolio.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/michael-ng-ang-a-049b92187/)  
+📧 [Email](mailto:ngangamichael83@gmail.com) 
 
 **⚡ "Passionate about building tech that makes an impact."**  
